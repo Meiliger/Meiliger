@@ -34,8 +34,8 @@
 
 ### Test documentation
 
-- [Checklists]()
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Checklists](https://github.com/Meiliger/checklists)
+- [Test-Suites and Test-Cases](https://github.com/Meiliger/test-cases)
+- [Bug-Reports](https://github.com/Meiliger/bug-reports)
+- [SQL Queries](https://github.com/Meiliger/SQL)
+- [Postman Collections](https://github.com/Meiliger/postman)
