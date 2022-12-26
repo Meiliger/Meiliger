@@ -40,3 +40,4 @@
 - [SQL Queries](https://github.com/Meiliger/SQL)
 - [Postman Collections](https://github.com/Meiliger/postman)
 - [JSON and XML](https://github.com/Meiliger/JSON-and-XML)
+- [DevTools](https://github.com/Meiliger/DevTools)
