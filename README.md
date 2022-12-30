@@ -37,6 +37,7 @@
 - [Checklists](https://github.com/Meiliger/checklists)
 - [Test-Suites and Test-Cases](https://github.com/Meiliger/test-cases)
 - [Bug-Reports](https://github.com/Meiliger/bug-reports)
+- [Git](https://github.com/Meiliger/git)
 - [SQL Queries](https://github.com/Meiliger/SQL)
 - [Postman Collections](https://github.com/Meiliger/postman)
 - [JSON and XML](https://github.com/Meiliger/JSON-and-XML)
