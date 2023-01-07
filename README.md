@@ -44,3 +44,4 @@
 - [DevTools](https://github.com/Meiliger/DevTools)
 - [JMeter](https://github.com/Meiliger/JMeter)
 - [Jenkins](https://github.com/Meiliger/Jenkins)
+- [Fiddler](https://github.com/Meiliger/Fiddler)
