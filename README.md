@@ -38,6 +38,7 @@
 - [Test-Suites and Test-Cases](https://github.com/Meiliger/test-cases)
 - [Bug-Reports](https://github.com/Meiliger/bug-reports)
 - [Test Plan](https://github.com/Meiliger/Test-Plan)
+- [Test Design Technics](https://github.com/Meiliger/Test-Design-Technics/blob/main/README.md)
 - [Git](https://github.com/Meiliger/git)
 - [SQL Queries](https://github.com/Meiliger/SQL)
 - [Postman Collections](https://github.com/Meiliger/postman)
